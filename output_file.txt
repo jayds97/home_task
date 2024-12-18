@@ -1,0 +1,15 @@
+The Lowest Price is 90.0
+
+The Types of rooms are 
+King Studio Suite - Hearing Accessible/Non-Smoking
+King Studio Suite - Non Smoking
+King Room - Mobility/Hearing Accessible - Non-Smoking
+Queen Suite with Two Queen Beds - Non-Smoking
+
+The no of Guests 4  The Lowest Price is 90.0
+
+total price (Net price + taxes) for all rooms along with the room type 
+King Studio Suite - Hearing Accessible/Non-Smoking 142.45 
+King Studio Suite - Non Smoking 119.4 
+King Room - Mobility/Hearing Accessible - Non-Smoking 144.45 
+Queen Suite with Two Queen Beds - Non-Smoking 141.45 
